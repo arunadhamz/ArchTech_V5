@@ -1,0 +1,17 @@
+{
+  "id": "FUN-15",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "\u2022 Thermal: FLIR Boson 640 (LWIR, 60Hz) over GMSL2 .",
+  "source": "AUDS.pdf",
+  "page": 1,
+  "keywords": [
+    "flir boson",
+    "thermal",
+    "lwir",
+    "flir",
+    "boson"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.063462"
+}

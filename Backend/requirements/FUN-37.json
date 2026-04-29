@@ -1,0 +1,20 @@
+{
+  "id": "FUN-37",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "Provides bidirectional control channel over same coax for FLIR's proprietary commands (FFC, gain mode, polarity).",
+  "source": "AUDS.pdf",
+  "page": 4,
+  "keywords": [
+    "flir proprietary commands",
+    "gain mode",
+    "bidirectional control channel",
+    "polarity",
+    "coax for flir",
+    "flir proprietary",
+    "proprietary commands",
+    "bidirectional control"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.501947"
+}

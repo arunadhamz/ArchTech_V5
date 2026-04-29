@@ -1,0 +1,20 @@
+{
+  "id": "FUN-35",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "AI-Based Intruder Detection Drone (AUDS) \u2013 Detailed Tech Specs 1.1 Processing Units \u2013 Deep Dive NVIDIA Jetson Orin NX 16GB (P3768) Parameter Value Notes Part Number 900-13767-0040-000 Production module GPU 1024-core NVIDIA Ampere 32 Tensor Cores CPU 8-core Arm Cortex-A78AE v8.2 2MB L2 + 4MB L3 DLA 2x NVDLA v2 Configurable for INT8/FP16 PVA 2x Vision Accelerator Optical flow, stereo disparity",
+  "source": "AUDS.pdf",
+  "page": 3,
+  "keywords": [
+    "detailed tech specs",
+    "tensor cores cpu",
+    "intruder detection drone",
+    "notes part number",
+    "vision accelerator optical",
+    "production module gpu",
+    "deep dive nvidia",
+    "ai-based intruder detection"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.353715"
+}

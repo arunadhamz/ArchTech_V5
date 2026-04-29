@@ -1,0 +1,20 @@
+{
+  "id": "FUN-33",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "\u2022 Detection: Thermal false positives in high summer heat (rely on EO fusion).",
+  "source": "AUDS.pdf",
+  "page": 3,
+  "keywords": [
+    "thermal false positives",
+    "high summer heat",
+    "thermal false",
+    "detection",
+    "summer heat",
+    "thermal",
+    "false positives",
+    "positives in high"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.319659"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "FUN-2",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "\u2022 Target Detection Goals: Human intruders (distinguish combatant vs.",
+  "source": "AUDS.pdf",
+  "page": 1,
+  "keywords": [
+    "target detection goals",
+    "target detection",
+    "detection goals",
+    "human intruders",
+    "distinguish combatant",
+    "target",
+    "goals",
+    "human"
+  ],
+  "extracted_at": "2026-04-29T13:08:34.970590"
+}

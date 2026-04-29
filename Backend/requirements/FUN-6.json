@@ -1,0 +1,20 @@
+{
+  "id": "FUN-6",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "\u2022 Constraints: Operate in -20\u00b0C to 50\u00b0C; rain/fog; high EMI from jamming attempts.",
+  "source": "AUDS.pdf",
+  "page": 1,
+  "keywords": [
+    "high emi",
+    "emi from jamming",
+    "jamming attempts",
+    "constraints",
+    "rain",
+    "operate",
+    "high",
+    "attempts"
+  ],
+  "extracted_at": "2026-04-29T13:08:34.985422"
+}

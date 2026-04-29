@@ -1,0 +1,20 @@
+{
+  "id": "HAR-3",
+  "type": "TechSpec",
+  "category": "Hardware",
+  "priority": "Normal",
+  "text": "\u2022 Anti-jam: Frequency Hopping Spread Spectrum (FHSS) on control link.",
+  "source": "AUDS.pdf",
+  "page": 3,
+  "keywords": [
+    "lin",
+    "frequency hopping spread",
+    "hopping spread spectrum",
+    "frequency hopping",
+    "spread spectrum",
+    "hopping spread",
+    "anti-jam",
+    "fhss"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.272686"
+}

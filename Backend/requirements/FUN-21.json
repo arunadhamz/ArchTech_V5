@@ -1,0 +1,20 @@
+{
+  "id": "FUN-21",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "Bill of Materials (BOM) Component Model Specs Qty Selection Rationale Jetson Orin NX Best TOPS/W for onboard intrusion SoM 100 TOPS, 15W 1 16GB detection Holybro Pixhawk STM32H753, 2MB Flight Ctrl 1 Open-source, triple redundancy IMU 6X Flash 640x512, 60Hz, Thermal FLIR Boson 640 1 MIL-grade, low SWaP for drones USB3 Telemetry Holybro SiK 2.4W 900MHz, 37dBm 1 Long range (40km) for border ops Li-Ion Pack Tattu 22000mAh 6S, 12C 1 45-min flight endurance 5.",
+  "source": "AUDS.pdf",
+  "page": 2,
+  "keywords": [
+    "usb",
+    "thermal flir boson",
+    "component model specs",
+    "model specs qty",
+    "specs qty selection",
+    "qty selection rationale",
+    "selection rationale jetson",
+    "rationale jetson orin"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.173965"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "FUN-16",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "\u2022 Navigation: Here+ RTK GPS (for cm-level precision) + Pixhawk Optical Flow.",
+  "source": "AUDS.pdf",
+  "page": 1,
+  "keywords": [
+    "pixhawk optical flow",
+    "rtk gps",
+    "pixhawk optical",
+    "optical flow",
+    "navigation",
+    "cm-level precision",
+    "pixhawk",
+    "flow"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.070010"
+}

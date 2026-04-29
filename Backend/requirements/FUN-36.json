@@ -1,0 +1,20 @@
+{
+  "id": "FUN-36",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "1.2 Sensors \u2013 Detailed Interface Specs FLIR Boson 640 (Thermal) Parameter Value Part Number 433-0006-02-00 (OEM, no shutter) Resolution 640x512, 12\u00b5m pixel Spectral Range 7.5-13.5\u00b5m (LWIR) Frame Rate 60Hz native (no rolling shutter) Interface USB 3.0 (Type-C) or CMOS parallel (8/14-bit) Power 1.2W (active) / 0.5W (standby) NEDT <50mK at f/1.0 (detects 0.05\u00b0C difference) Dynamic Range -40\u00b0C to +300\u00b0C (switchable gain) Interface details: Using GMSL2 (Maxim MAX9296) serializer for long cable runs (up to 15m) to gimbal electronics.",
+  "source": "AUDS.pdf",
+  "page": 4,
+  "keywords": [
+    "serial",
+    "usb",
+    "lin",
+    "specs flir boson",
+    "pixel spectral range",
+    "detailed interface specs",
+    "interface specs flir",
+    "long cable runs"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.487954"
+}

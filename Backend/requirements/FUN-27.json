@@ -1,0 +1,15 @@
+{
+  "id": "FUN-27",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "\u2022 Inference: TensorRT with FP16 -> INT8 calibration (1.2ms inference @ 640x640).",
+  "source": "AUDS.pdf",
+  "page": 2,
+  "keywords": [
+    "inference",
+    "calibration",
+    "tensorrt"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.215857"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "FUN-20",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "\u2022 PMIC: TI LM51231 (high efficiency boost for Jetson).",
+  "source": "AUDS.pdf",
+  "page": 2,
+  "keywords": [
+    "high efficiency boost",
+    "boost for jetson",
+    "pmic",
+    "high efficiency",
+    "jetson",
+    "efficiency boost",
+    "high",
+    "efficiency"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.145346"
+}

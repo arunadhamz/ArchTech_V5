@@ -1,0 +1,20 @@
+{
+  "id": "FUN-3",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "civilian via uniform/weapon detection), small UAS, ground vehicles.",
+  "source": "AUDS.pdf",
+  "page": 1,
+  "keywords": [
+    "small uas",
+    "civilian via uniform",
+    "weapon detection",
+    "ground vehicles",
+    "civilian",
+    "uniform",
+    "weapon",
+    "detection"
+  ],
+  "extracted_at": "2026-04-29T13:08:34.977009"
+}

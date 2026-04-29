@@ -1,0 +1,20 @@
+{
+  "id": "FUN-9",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "\u2022 Data Pipeline: Sensor Frame (30fps) -> ISP -> TensorRT -> Object Detection -> Multi- Object Tracking (Kalman) -> Re-ID -> GCS.",
+  "source": "AUDS.pdf",
+  "page": 1,
+  "keywords": [
+    "lin",
+    "data pipeline",
+    "sensor frame",
+    "object detection",
+    "object tracking",
+    "multi",
+    "kalman",
+    "object"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.014605"
+}

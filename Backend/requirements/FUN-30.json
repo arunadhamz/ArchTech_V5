@@ -1,0 +1,20 @@
+{
+  "id": "FUN-30",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "Ruggedization \u2022 IP Rating: IP54 (fansink design allows some airflow while resisting rain).",
+  "source": "AUDS.pdf",
+  "page": 3,
+  "keywords": [
+    "ruggedization",
+    "fansink design",
+    "resisting rain",
+    "rating",
+    "airflow while resisting",
+    "fansink",
+    "rain",
+    "design"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.298423"
+}

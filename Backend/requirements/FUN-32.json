@@ -1,0 +1,20 @@
+{
+  "id": "FUN-32",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "Limitations \u2022 Weather: Heavy rain causes prop efficiency loss (requires 20% power buffer).",
+  "source": "AUDS.pdf",
+  "page": 3,
+  "keywords": [
+    "prop efficiency loss",
+    "power buffer",
+    "heavy rain",
+    "weather",
+    "limitations",
+    "requires",
+    "efficiency loss",
+    "heavy"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.310691"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "FUN-19",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "Power System \u2022 Battery: 6S Li-Ion (Panasonic NCR18650GA, 3500mAh, 10C).",
+  "source": "AUDS.pdf",
+  "page": 2,
+  "keywords": [
+    "power system",
+    "battery",
+    "panasonic",
+    "li-ion",
+    "system",
+    "power"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.140847"
+}

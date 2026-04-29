@@ -1,0 +1,20 @@
+{
+  "id": "SOF-3",
+  "type": "TechSpec",
+  "category": "Software",
+  "priority": "Normal",
+  "text": "Deployment Strategy \u2022 Edge: Fully autonomous \"search pattern\" or \"track mode.\" \u2022 OTA: UAVcan firmware update over MAVLink (Zephyr RTOS on peripherals).",
+  "source": "AUDS.pdf",
+  "page": 3,
+  "keywords": [
+    "can",
+    "lin",
+    "deployment strategy",
+    "fully autonomous",
+    "search pattern",
+    "track mode",
+    "edge",
+    "zephyr rtos"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.289274"
+}

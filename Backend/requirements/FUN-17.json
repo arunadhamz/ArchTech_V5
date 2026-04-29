@@ -1,0 +1,20 @@
+{
+  "id": "FUN-17",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "Communication \u2022 C2 Link: Microhard pDDL 900MHz (FHSS for anti-jam) @ 345kbps.",
+  "source": "AUDS.pdf",
+  "page": 2,
+  "keywords": [
+    "lin",
+    "microhard pddl",
+    "fhss for anti-jam",
+    "link",
+    "communication",
+    "microhard",
+    "fhss",
+    "pddl"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.129301"
+}

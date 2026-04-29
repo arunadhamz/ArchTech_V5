@@ -1,0 +1,20 @@
+{
+  "id": "HAR-1",
+  "type": "TechSpec",
+  "category": "Hardware",
+  "priority": "Normal",
+  "text": "Embedded Hardware Design Processing Units \u2022 Main Compute: NVIDIA Jetson Orin NX (16GB) \u2013 100 TOPS for deep learning inference .",
+  "source": "AUDS.pdf",
+  "page": 1,
+  "keywords": [
+    "design processing units",
+    "nvidia jetson orin",
+    "hardware design processing",
+    "embedded hardware design",
+    "main compute",
+    "processing units",
+    "nvidia jetson",
+    "deep learning inference"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.048289"
+}

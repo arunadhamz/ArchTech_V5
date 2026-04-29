@@ -1,0 +1,20 @@
+{
+  "id": "SOF-1",
+  "type": "TechSpec",
+  "category": "Software",
+  "priority": "Normal",
+  "text": "Embedded Software Stack \u2022 Low-Level: JetPack 6.0 (Linux Kernel 5.15 + PREEMPT_RT).",
+  "source": "AUDS.pdf",
+  "page": 2,
+  "keywords": [
+    "lin",
+    "embedded software stack",
+    "linux kernel",
+    "software stack",
+    "embedded software",
+    "preempt",
+    "low-level",
+    "jetpack"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.181363"
+}

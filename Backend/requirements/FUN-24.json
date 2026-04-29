@@ -1,0 +1,20 @@
+{
+  "id": "FUN-24",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "Real-Time Constraints \u2022 Latency: < 40ms from camera capture to inference output.",
+  "source": "AUDS.pdf",
+  "page": 2,
+  "keywords": [
+    "real-time constraints",
+    "latency",
+    "inference output",
+    "constraints",
+    "camera capture",
+    "capture to inference",
+    "real-time",
+    "output"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.199427"
+}

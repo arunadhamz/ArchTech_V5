@@ -1,0 +1,20 @@
+{
+  "id": "FUN-41",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "Layer Function Copper Weight Dielectric 6 Signal + RF 1 oz \u2013 EMI Countermeasures: \u2022 RF cans (Harwin S1711-42R) over Microhard module and Jetson SoM \u2022 Ferrite beads (Murata BLM18HK102SN1D) on all power inputs \u2022 Common mode chokes (W\u00fcrth 744273501) on USB and Ethernet",
+  "source": "AUDS.pdf",
+  "page": 7,
+  "keywords": [
+    "can",
+    "ethernet",
+    "usb",
+    "copper weight dielectric",
+    "function copper weight",
+    "layer function copper",
+    "common mode chokes",
+    "emi countermeasures"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.715604"
+}

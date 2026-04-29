@@ -1,0 +1,18 @@
+{
+  "id": "FUN-5",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "Latency < 150ms (sensor to operator alert).",
+  "source": "AUDS.pdf",
+  "page": 1,
+  "keywords": [
+    "latency",
+    "sensor to operator",
+    "operator alert",
+    "sensor",
+    "alert",
+    "operator"
+  ],
+  "extracted_at": "2026-04-29T13:08:34.980922"
+}

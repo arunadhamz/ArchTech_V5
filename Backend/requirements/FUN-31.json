@@ -1,0 +1,19 @@
+{
+  "id": "FUN-31",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "\u2022 Vibration: MIL-STD-810H, Method 514.7 (Helicopter vibration profile).",
+  "source": "AUDS.pdf",
+  "page": 3,
+  "keywords": [
+    "helicopter vibration profile",
+    "helicopter vibration",
+    "vibration profile",
+    "method",
+    "helicopter",
+    "vibration",
+    "profile"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.302797"
+}

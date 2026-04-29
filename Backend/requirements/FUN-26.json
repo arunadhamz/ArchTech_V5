@@ -1,0 +1,19 @@
+{
+  "id": "FUN-26",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "AI / Signal Processing \u2022 Model: YOLOv8n (nano) pruned to 2.3 MB, INT8 quantized.",
+  "source": "AUDS.pdf",
+  "page": 2,
+  "keywords": [
+    "signal processing",
+    "model",
+    "nano",
+    "quantized",
+    "signal",
+    "processing",
+    "pruned"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.210508"
+}

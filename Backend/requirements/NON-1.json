@@ -1,0 +1,20 @@
+{
+  "id": "NON-1",
+  "type": "TechSpec",
+  "category": "Non-Functional",
+  "priority": "Normal",
+  "text": "Mission Profile \u2022 Operational Environment: Urban canyons (GPS denied), dense foliage, nighttime border surveillance.",
+  "source": "AUDS.pdf",
+  "page": 1,
+  "keywords": [
+    "can",
+    "lan",
+    "operational environment",
+    "nighttime border surveillance",
+    "mission profile",
+    "urban canyons",
+    "gps denied",
+    "dense foliage"
+  ],
+  "extracted_at": "2026-04-29T13:08:34.961108"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "FUN-34",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "Future Upgrades \u2022 Swarm Node: Add UWB radio (Decawave) for relative positioning to other drones.",
+  "source": "AUDS.pdf",
+  "page": 3,
+  "keywords": [
+    "add uwb radio",
+    "swarm node",
+    "add uwb",
+    "future upgrades",
+    "uwb radio",
+    "decawave",
+    "upgrades",
+    "swarm"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.325813"
+}

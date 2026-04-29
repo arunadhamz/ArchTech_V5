@@ -1,0 +1,15 @@
+{
+  "id": "HAR-4",
+  "type": "TechSpec",
+  "category": "Hardware",
+  "priority": "Normal",
+  "text": "Testing & Validation \u2022 HIL: PX4 Hardware-in-the-loop with Gazebo + ROS 2.",
+  "source": "AUDS.pdf",
+  "page": 3,
+  "keywords": [
+    "validation",
+    "testing",
+    "gazebo"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.290602"
+}

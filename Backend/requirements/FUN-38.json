@@ -1,0 +1,20 @@
+{
+  "id": "FUN-38",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "Sony IMX477 (EO Camera) Parameter Value Resolution 12.3MP (4056x3040) Pixel Size 1.55\u00b5m Shutter Global reset (pseudo-global) CSI-2 Lanes 4-lane @ 1.5Gbps/lane Output Formats RAW12, RAW10, YUV422 Dynamic Range 76.9dB (HDR mode: 120dB via DOL) Frame Rate 4K @ 30fps / 1080p @ 60fps ISP Pipeline on Jetson: RAW12 -> Bayer demosaic -> White balance -> Tonemap -> YUV420 (for TensorRT).",
+  "source": "AUDS.pdf",
+  "page": 5,
+  "keywords": [
+    "lan",
+    "lin",
+    "lane output formats",
+    "shutter global reset",
+    "parameter value resolution",
+    "pixel size",
+    "dynamic range",
+    "frame rate"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.565171"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "FUN-13",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "\u2022 AI Accelerator: Dedicated NVDLA engine on Orin for quantized models (saves 40% power).",
+  "source": "AUDS.pdf",
+  "page": 1,
+  "keywords": [
+    "dedicated nvdla engine",
+    "dedicated nvdla",
+    "saves",
+    "power",
+    "nvdla engine",
+    "engine on orin",
+    "orin for quantized",
+    "quantized models"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.058977"
+}

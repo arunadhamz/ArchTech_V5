@@ -1,0 +1,16 @@
+{
+  "id": "HAR-6",
+  "type": "TechSpec",
+  "category": "Hardware",
+  "priority": "Normal",
+  "text": "Deserializer is MAX96717 on main PCB.",
+  "source": "AUDS.pdf",
+  "page": 4,
+  "keywords": [
+    "serial",
+    "main pcb",
+    "deserializer",
+    "main"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.489029"
+}

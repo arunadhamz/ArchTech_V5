@@ -1,0 +1,19 @@
+{
+  "id": "HAR-2",
+  "type": "TechSpec",
+  "category": "Hardware",
+  "priority": "Normal",
+  "text": "\u2022 Pre-processing: Run on Jetson's ISP hardware (not CPU).",
+  "source": "AUDS.pdf",
+  "page": 2,
+  "keywords": [
+    "jetson isp hardware",
+    "run on jetson",
+    "jetson isp",
+    "isp hardware",
+    "pre-processing",
+    "jetson",
+    "hardware"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.214660"
+}

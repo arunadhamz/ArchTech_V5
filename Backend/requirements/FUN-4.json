@@ -1,0 +1,19 @@
+{
+  "id": "FUN-4",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "\u2022 Range & Latency: Detection @ 500m (slant range); Classification @ 200m.",
+  "source": "AUDS.pdf",
+  "page": 1,
+  "keywords": [
+    "lan",
+    "slant range",
+    "latency",
+    "detection",
+    "classification",
+    "range",
+    "slant"
+  ],
+  "extracted_at": "2026-04-29T13:08:34.978880"
+}

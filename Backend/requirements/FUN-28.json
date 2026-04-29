@@ -1,0 +1,20 @@
+{
+  "id": "FUN-28",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "\u2022 Secure Boot: Signed bootloader in STM32 + encrypted rootfs on Jetson (dm-crypt).",
+  "source": "AUDS.pdf",
+  "page": 3,
+  "keywords": [
+    "secure boot",
+    "signed bootloader",
+    "rootfs on jetson",
+    "dm-crypt",
+    "encrypted rootfs",
+    "secure",
+    "boot",
+    "signed"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.279347"
+}

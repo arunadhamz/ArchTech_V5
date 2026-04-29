@@ -1,0 +1,18 @@
+{
+  "id": "FUN-22",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "\u2022 Middleware: ROS 2 (Humble) over DDS for inter-process comms.",
+  "source": "AUDS.pdf",
+  "page": 2,
+  "keywords": [
+    "middleware",
+    "humble",
+    "dds for inter-process",
+    "inter-process comms",
+    "comms",
+    "inter-process"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.184978"
+}

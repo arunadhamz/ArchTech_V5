@@ -1,0 +1,20 @@
+{
+  "id": "HAR-5",
+  "type": "TechSpec",
+  "category": "Hardware",
+  "priority": "Normal",
+  "text": "The dual DLA allows concurrent running of intruder detection (DLA0) and optical flow (DLA1).",
+  "source": "AUDS.pdf",
+  "page": 4,
+  "keywords": [
+    "dual dla",
+    "dla allows concurrent",
+    "intruder detection",
+    "optical flow",
+    "concurrent running",
+    "running of intruder",
+    "detection",
+    "flow"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.446914"
+}

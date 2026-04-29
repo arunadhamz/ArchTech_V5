@@ -1,0 +1,20 @@
+{
+  "id": "FUN-11",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "Fail-safe: Lost link triggers pre-programmed \"return to home\" via terrain avoidance.",
+  "source": "AUDS.pdf",
+  "page": 1,
+  "keywords": [
+    "lin",
+    "lost link triggers",
+    "link triggers pre-programmed",
+    "return to home",
+    "lost link",
+    "fail-safe",
+    "terrain avoidance",
+    "lost"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.027244"
+}

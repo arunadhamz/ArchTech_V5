@@ -1,0 +1,20 @@
+{
+  "id": "NON-4",
+  "type": "TechSpec",
+  "category": "Non-Functional",
+  "priority": "Normal",
+  "text": "STM32H753VIT6 Flight Controller Parameter Value Core Cortex-M7 @ 480MHz (856 DMIPS) Flash 2MB (dual-bank for safe OTA) RAM 1MB + 1MB TCM (zero-wait) IMU Interface 4x SPI @ 80MHz Safety ECC on Flash, parity on SRAM Qualification AEC-Q100 Grade 2 (-40\u00b0C to 105\u00b0C) Redundancy architecture: Three IMUs connected via separate SPI buses with voting at 1kHz: \u2022 IMU1: Bosch BMI088 (accel+gyro) \u2013 SPI bus 1 \u2022 IMU2: ADIS16470 (tactical grade) \u2013 SPI bus 2 \u2022 IMU3: TDK ICM-42688-P \u2013 SPI bus 3 If any IMU deviates >3 sigma, it is excluded within 1ms.",
+  "source": "AUDS.pdf",
+  "page": 4,
+  "keywords": [
+    "spi",
+    "flight controller parameter",
+    "separate spi buses",
+    "spi bus",
+    "flight controller",
+    "parameter value core",
+    "safety ecc",
+    "sram qualification"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.468888"
+}

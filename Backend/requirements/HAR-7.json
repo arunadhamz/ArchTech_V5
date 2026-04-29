@@ -1,0 +1,20 @@
+{
+  "id": "HAR-7",
+  "type": "TechSpec",
+  "category": "Hardware",
+  "priority": "Normal",
+  "text": "1.4 Power System \u2013 Detailed Budget 6S Li-Ion Pack (Tattu 22000mAh) Parameter Value Cells 18650GA (6S6P \u2013 36 cells total) Nominal Voltage 22.2V (3.7V per cell) Capacity 22,000mAh (488.4 Wh) Max Continuous Discharge 60A (2.7C) \u2013 safe for 10C cells Weight 2.3kg Energy Density 212 Wh/kg Power Budget (15W TDP mode) Component Voltage Current (mA) Power (W) Jetson Orin NX 5V (via PMIC) 3000 15.0 STM32H753 + sensors 3.3V 250 0.825 FLIR Boson 5V 240 1.2 Sony IMX477 2.8V 150 0.42 Microhard pDDL (Tx) 12V 2000 24.0 4x Motors (hover) 22.2V 8000 (total) 177.6 TOTAL Hover ~219W Flight time calculation: \u2022 Battery usable: 488.4 Wh x 0.8 (80% DoD) = 390.7 Wh \u2022 Hover power: 219W \u2022 Flight time: 390.7 / 219 = 1.78 hours (107 minutes) PMIC \u2013 TI LM51231 (Boost for Jetson) Parameter Value Input Range 3-45V (from battery) Output 5V @ 6A (regulated) Switching Frequency 2.2MHz (avoids AM radio interference) Efficiency 94% at 3A load Protection Overvoltage, overcurrent, thermal shutdown (160\u00b0C) 1.5 PCB Integration \u2013 Stackup & Shielding 6-Layer PCB Stackup (1.6mm total) Layer Function Copper Weight Dielectric 1 Signal (high-speed) 1 oz \u2013 2 GND (solid) 1 oz 0.2mm FR4 3 Power (5V, 3.3V, 1.8V) 2 oz 0.4mm FR4 4 Signal (low-speed) 1 oz 0.4mm FR4 5 GND (solid) 1 oz 0.2mm FR4",
+  "source": "AUDS.pdf",
+  "page": 6,
+  "keywords": [
+    "max continuous discharge",
+    "component voltage current",
+    "layer function copper",
+    "copper weight dielectric",
+    "function copper weight",
+    "load protection overvoltage",
+    "flight time calculation",
+    "flight time"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.683600"
+}

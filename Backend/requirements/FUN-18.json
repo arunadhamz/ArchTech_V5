@@ -1,0 +1,20 @@
+{
+  "id": "FUN-18",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "\u2022 Video Downlink: V-Nova Perseus compression over 2.4GHz (low latency codec).",
+  "source": "AUDS.pdf",
+  "page": 2,
+  "keywords": [
+    "lin",
+    "video downlink",
+    "v-nova perseus compression",
+    "low latency codec",
+    "v-nova perseus",
+    "perseus compression",
+    "low latency",
+    "latency codec"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.138724"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "FUN-8",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "\u2022 Fallback: If RF jammed, onboard autonomy stores tracks to NVMe and executes RTB via visual odometry.",
+  "source": "AUDS.pdf",
+  "page": 1,
+  "keywords": [
+    "onboard autonomy stores",
+    "fallback",
+    "autonomy stores tracks",
+    "executes rtb",
+    "rtb via visual",
+    "onboard autonomy",
+    "visual odometry",
+    "autonomy stores"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.009279"
+}

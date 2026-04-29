@@ -1,0 +1,19 @@
+{
+  "id": "FUN-29",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "\u2022 Field: Fly against \"OPFOR\" walking/running at 300m in foggy conditions.",
+  "source": "AUDS.pdf",
+  "page": 3,
+  "keywords": [
+    "field",
+    "opfor",
+    "walking",
+    "foggy conditions",
+    "running",
+    "conditions",
+    "foggy"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.293009"
+}

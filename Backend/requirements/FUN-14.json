@@ -1,0 +1,20 @@
+{
+  "id": "FUN-14",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "Sensors & Interfaces \u2022 EO Camera: Sony IMX477 (12MP, Global Shutter) via MIPI CSI-2 (40Gbps bandwidth) .",
+  "source": "AUDS.pdf",
+  "page": 1,
+  "keywords": [
+    "global shutter",
+    "interfaces",
+    "sony",
+    "sensors",
+    "bandwidth",
+    "camera",
+    "global",
+    "shutter"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.062110"
+}

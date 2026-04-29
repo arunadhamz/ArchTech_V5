@@ -1,0 +1,16 @@
+{
+  "id": "FUN-12",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "\u2022 Flight Controller: STM32H753 (Cortex-M7) running PX4.",
+  "source": "AUDS.pdf",
+  "page": 1,
+  "keywords": [
+    "flight controller",
+    "running",
+    "flight",
+    "controller"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.050103"
+}

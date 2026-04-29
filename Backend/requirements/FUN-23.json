@@ -1,0 +1,19 @@
+{
+  "id": "FUN-23",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "uXRCE-DDS bridging between NuttX (FC) and Linux (AI).",
+  "source": "AUDS.pdf",
+  "page": 2,
+  "keywords": [
+    "lin",
+    "uxrce-dds bridging",
+    "bridging between nuttx",
+    "linux",
+    "uxrce-dds",
+    "nuttx",
+    "bridging"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.187282"
+}

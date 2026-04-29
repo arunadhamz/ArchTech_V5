@@ -1,0 +1,20 @@
+{
+  "id": "FUN-40",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "1.3 Communication Systems \u2013 RF Link Budget Microhard pDDL 900 (Primary C2) Parameter Value Frequency 902-928 MHz ISM Modulation FHSS (50 hops/sec) Tx Power 37dBm (5W) \u2013 Adjustable Rx Sensitivity -110dBm @ 115.2kbps Link Margin 152dB (theoretical) Antenna Moxon (9dBi) on ground, dipole (2dBi) on drone Range 40km LOS at 115.2kbps Actual throughput calculation: \u2022 Raw air rate: 345.6kbps \u2022 Overhead (FEC + encryption): 28% \u2022 Effective payload: 248.8kbps \u2022 Enough for: 10Hz telemetry (2kB) + compressed video keyframes (every 30 frames) Video Downlink \u2013 V-Nova Perseus + LimeSDR Mini Parameter Value Compression Perseus (MPEG-H Part 2) \u2013 4:1 ratio at 5ms latency Frequency 2.4-2.4835 GHz (choose clean 20MHz channel) Modulation OFDM (64-QAM) \u2013 Adaptive based on SNR Max Bitrate 12 Mbps (1080p60 H.264 equivalent quality) Latency (encode+decode) 12ms on Jetson (GPU accelerated)",
+  "source": "AUDS.pdf",
+  "page": 5,
+  "keywords": [
+    "lin",
+    "snr max bitrate",
+    "ism modulation fhss",
+    "link budget microhard",
+    "limesdr mini parameter",
+    "budget microhard pddl",
+    "actual throughput calculation",
+    "raw air rate"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.598884"
+}

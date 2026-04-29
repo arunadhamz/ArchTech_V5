@@ -1,0 +1,18 @@
+{
+  "id": "NON-2",
+  "type": "TechSpec",
+  "category": "Non-Functional",
+  "priority": "Normal",
+  "text": "Networking & Security \u2022 Encryption: AES-256-GCM (MAVLink 2 Signing) .",
+  "source": "AUDS.pdf",
+  "page": 2,
+  "keywords": [
+    "lin",
+    "security",
+    "encryption",
+    "signing",
+    "networking",
+    "mavlink"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.217190"
+}

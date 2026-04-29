@@ -1,0 +1,20 @@
+{
+  "id": "FUN-7",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "System Architecture \u2022 End-to-End Architecture: \u2022 Edge (UAV): Gimbaled EO/IR + Onboard Jetson Orin NX -> MAVLink 2 -> Ground Control Station (GCS).",
+  "source": "AUDS.pdf",
+  "page": 1,
+  "keywords": [
+    "lin",
+    "ground control station",
+    "onboard jetson orin",
+    "onboard jetson",
+    "ground control",
+    "control station",
+    "system architecture",
+    "jetson orin"
+  ],
+  "extracted_at": "2026-04-29T13:08:34.995636"
+}

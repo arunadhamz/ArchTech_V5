@@ -1,0 +1,17 @@
+{
+  "id": "FUN-39",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "Latency: 8.3ms at 1080p (measured with Jetson ISP).",
+  "source": "AUDS.pdf",
+  "page": 5,
+  "keywords": [
+    "jetson isp",
+    "measured with jetson",
+    "latency",
+    "jetson",
+    "measured"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.567157"
+}

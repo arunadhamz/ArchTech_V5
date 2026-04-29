@@ -1,0 +1,20 @@
+{
+  "id": "NON-3",
+  "type": "TechSpec",
+  "category": "Non-Functional",
+  "priority": "Normal",
+  "text": "Parameter Value Notes Memory 16GB LPDDR5 102.4 GB/s Storage eMMC 64GB 5.1 +NVMe expansion TDP Config 10W / 15W / 25W Software selectable Thermal TJ_max = 105\u00b0C Requires active cooling above 15W ISP 4-lane CSI (x2) Up to 6 cameras @ 4Kp60 Why this specific part: The A78AE cores include lockstep capability for safety-critical tasks (flight termination).",
+  "source": "AUDS.pdf",
+  "page": 4,
+  "keywords": [
+    "lan",
+    "lin",
+    "expansion tdp config",
+    "software selectable thermal",
+    "nvme expansion tdp",
+    "requires active cooling",
+    "cores include lockstep",
+    "include lockstep capability"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.438440"
+}

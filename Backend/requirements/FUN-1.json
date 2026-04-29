@@ -1,0 +1,20 @@
+{
+  "id": "FUN-1",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "AI-Based Intruder Detection Drone (AUDS - Airborne Unmanned Detection System) 1.",
+  "source": "AUDS.pdf",
+  "page": 1,
+  "keywords": [
+    "intruder detection drone",
+    "airborne unmanned detection",
+    "unmanned detection system",
+    "ai-based intruder detection",
+    "airborne unmanned",
+    "detection drone",
+    "detection system",
+    "ai-based intruder"
+  ],
+  "extracted_at": "2026-04-29T13:08:34.947533"
+}

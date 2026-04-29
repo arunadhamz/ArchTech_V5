@@ -1,0 +1,20 @@
+{
+  "id": "FUN-25",
+  "type": "TechSpec",
+  "category": "Functional",
+  "priority": "Normal",
+  "text": "\u2022 Scheduling: sched_setattr with SCHED_DEADLINE for the object detection thread (priority 99).",
+  "source": "AUDS.pdf",
+  "page": 2,
+  "keywords": [
+    "lin",
+    "object detection thread",
+    "detection thread",
+    "setattr with sched",
+    "scheduling",
+    "object detection",
+    "sched",
+    "priority"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.207843"
+}

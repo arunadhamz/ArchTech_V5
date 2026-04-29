@@ -1,0 +1,20 @@
+{
+  "id": "SOF-2",
+  "type": "TechSpec",
+  "category": "Software",
+  "priority": "Normal",
+  "text": "\u2022 Application: Custom C++ node using GStreamer for video pipeline.",
+  "source": "AUDS.pdf",
+  "page": 2,
+  "keywords": [
+    "lin",
+    "application",
+    "node using gstreamer",
+    "video pipeline",
+    "custom",
+    "gstreamer for video",
+    "node",
+    "pipeline"
+  ],
+  "extracted_at": "2026-04-29T13:08:35.191911"
+}
